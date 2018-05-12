@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7703
     wikipedia: http://fi.wikipedia.org/wiki/Edith_Forssman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43850#Uusia-kertomuksia-iltalampun---ress-
 gutenberg_issued: '2013-09-30'
 gutenberg_type: Text
 identifiers:
