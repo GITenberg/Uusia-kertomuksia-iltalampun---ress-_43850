@@ -1,0 +1,41 @@
+_repo: Uusia-kertomuksia-iltalampun---ress-_43850
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Pakkala, Teuvo
+    alias: Frosterus, Teodor Oskar
+    birthdate: 1862
+    deathdate: 1925
+    gutenberg_agent_id: '4116'
+    url: http://www.gutenberg.org/2009/agents/4116
+    wikipedia: http://fi.wikipedia.org/wiki/Teuvo_Pakkala
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Aina
+    aliases:
+    - Forssman, Edith
+    - Forssman, Edith Theodora
+    birthdate: 1856
+    deathdate: 1928
+    gutenberg_agent_id: '7703'
+    url: http://www.gutenberg.org/2009/agents/7703
+    wikipedia: http://fi.wikipedia.org/wiki/Edith_Forssman
+description: ''
+gutenberg_issued: '2013-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43850'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PT'
+tableOfContents: Koti -- Muistoruno -- Rakkaudesta -- Vanha Maija -- Taistelu olemassa
+  olosta -- Isoäidin tanssikengät -- Liikalainen -- Tulevaisuuden eteen.
+title: Uusia kertomuksia iltalampun ääressä
+url: http://www.gutenberg.org/ebooks/43850
